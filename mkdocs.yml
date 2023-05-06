@@ -73,7 +73,7 @@ extra:
   generator: false # 不显示 MkDocs 的版权
   analytics:
     provider: google
-    property: G-QBB3SQMGLN # Fork 我的网站，请把这串代码改成你自己的
+    property: G-7CJK9NXC6N # Fork 我的网站，请把这串代码改成你自己的
   social:
     - name: 网盘
       link: https://wp.haoruan.cc/
