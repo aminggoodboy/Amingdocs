@@ -1,7 +1,7 @@
-site_name: Power's Wiki
-site_description: 读万卷书，行万里路，做个有趣的人
-site_url: https://wiki-power.com/
-repo_url: https://github.com/linyuxuanlin/Wiki_MkDocs
+site_name: 阿明好软
+site_description: 喜欢的内容当然要留存下来啦！
+site_url: https://haoruan.cc
+#repo_url: https://github.com/linyuxuanlin/Wiki_MkDocs
 #remote_name: linyuxuanlin/Wiki_MkDocs
 edit_uri: edit/main/docs/ #
 
@@ -73,19 +73,16 @@ extra:
   generator: false # 不显示 MkDocs 的版权
   analytics:
     provider: google
-    property: G-QBB3SQMGLN # Fork 我的网站，请把这串代码改成你自己的
+    property: G-7CJK9NXC6N # Fork 我的网站，请把这串代码改成你自己的
   social:
-    - name: 友链 & 导航站
-      link: https://nav.wiki-power.com/
-      icon: fontawesome/regular/address-book
-    - name: 书摘
-      link: http://digest.wiki-power.com/
-      icon: fontawesome/regular/bookmark
-    - name: 资源仓库
-      link: https://github.com/linyuxuanlin/File-host
-      icon: fontawesome/regular/file-lines
+    - name: 阿明好软网盘
+      link: https://wp.haoruan.cc
+      icon: fontawesome/regular/cloud
+    - name: 阿明好软永久主页
+      link: https://aminggoodboy.gitee.io
+      icon: fontawesome/regular/star
 
-copyright: Copyright &copy; 2015 - 2023 by Power | <a href="https://beian.miit.gov.cn"> 粤 ICP 备 20014898 号 </a>
+copyright: Copyright &copy; 2022 - 2023 by Power | <a href="https://beian.miit.gov.cn">  陕ICP备2022000975号. </a>
 
 markdown_extensions:
   - pymdownx.arithmatex:
