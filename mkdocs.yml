@@ -26,8 +26,8 @@ theme:
         icon: material/eye-outline
         name: 切换亮色模式
   language: zh
-  logo: img/logo-zip.png #https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png
-  favicon: img/logo.svg #https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo.svg #https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png
+  logo: https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png
+  favicon: https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo.svg #https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png
   features:
     - content.code.copy # 代码块复制按钮
     - content.action.edit # 文章编辑按钮
@@ -85,7 +85,7 @@ extra:
      # link: https://github.com/linyuxuanlin/File-host
       #icon: fontawesome/regular/file-lines
 
-copyright: Copyright &copy; 2015 - 2023 by Power | <a href="https://beian.miit.gov.cn"> 粤 ICP 备 20014898 号 </a>
+copyright: Copyright &copy; 2022 - 2023 by Power | <a href="https://beian.miit.gov.cn">  陕ICP备2022000975号. </a>
 
 markdown_extensions:
   - pymdownx.arithmatex:
