@@ -26,8 +26,8 @@ theme:
         icon: material/eye-outline
         name: 切换亮色模式
   language: zh
-  logo: https://baijiahao.baidu.com/bjh/picproxy?param=QHKUgKYKEHtWGXkfbn1HkCZ7%2BSUP0MgE2c1HMWAQZFC5bh0%2FeCj7EIScHUBMc7%2BmmPqLi%2B3p99Ox8278MJXuHEP2ObAIvd9QKU4b2NtrBrKYyxKiNZq60o54bJIQ933f
-  favicon: https://baijiahao.baidu.com/bjh/picproxy?param=QHKUgKYKEHtWGXkfbn1HkCZ7%2BSUP0MgE2c1HMWAQZFC5bh0%2FeCj7EIScHUBMc7%2BmmPqLi%2B3p99Ox8278MJXuHEP2ObAIvd9QKU4b2NtrBrKYyxKiNZq60o54bJIQ933f #https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png
+  logo: img/aming.png #https://baijiahao.baidu.com/bjh/picproxy?param=QHKUgKYKEHtWGXkfbn1HkCZ7%2BSUP0MgE2c1HMWAQZFC5bh0%2FeCj7EIScHUBMc7%2BmmPqLi%2B3p99Ox8278MJXuHEP2ObAIvd9QKU4b2NtrBrKYyxKiNZq60o54bJIQ933f
+  favicon: img/aming.png #https://baijiahao.baidu.com/bjh/picproxy?param=QHKUgKYKEHtWGXkfbn1HkCZ7%2BSUP0MgE2c1HMWAQZFC5bh0%2FeCj7EIScHUBMc7%2BmmPqLi%2B3p99Ox8278MJXuHEP2ObAIvd9QKU4b2NtrBrKYyxKiNZq60o54bJIQ933f #https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png
   features:
     - content.code.copy # 代码块复制按钮
     - content.action.edit # 文章编辑按钮
