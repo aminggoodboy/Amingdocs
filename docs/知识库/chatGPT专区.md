@@ -4,6 +4,7 @@
 
 AI时代随着GPT的普及，已经到来！
 
+- [也略](https://www.yelue.com/)
 - [独角兽KEY分享 - 每天免费15个KEY，需要魔法网络](https://freeopenai.xyz/)
 - [chatGPT国内镜像导航](https://lzw.me/x/chatgpt-sites/)
 - [GPT在线体验网站收集](https://chatgpt.quickso.cn/)
