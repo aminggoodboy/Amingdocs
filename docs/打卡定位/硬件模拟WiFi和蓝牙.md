@@ -24,7 +24,7 @@ wifi和蓝牙模拟懒人方案，支持安卓和IOS
 
 4. 简单操作教程[https://mdl.ink/OR9GhW](https://mdl.ink/OR9GhW)
 
-![https://docimg9.docs.qq.com/image/kzWFDoXvjFEpW4HTeVR5Cg.jpeg?w=1133&h=5369](https://docimg9.docs.qq.com/image/kzWFDoXvjFEpW4HTeVR5Cg.jpeg?w=1133&h=5369)
+![](https://docimg9.docs.qq.com/image/kzWFDoXvjFEpW4HTeVR5Cg.jpeg?w=1133&h=5369)
 
 
 
