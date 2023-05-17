@@ -4,15 +4,16 @@
 
 AI时代随着GPT的普及，已经到来！
 
-- [也略](https://www.yelue.com/)
 - [独角兽KEY分享 - 每天免费15个KEY，需要魔法网络](https://freeopenai.xyz/)
+- [也略](https://www.mydyjs.com/gpt.html)
+- [全平台客户端 - 免费，支持AI出图，等超多功能，下载不了的挂魔法网](https://github.com/akl7777777/free-chatgpt-client-pub)
 - [chatGPT国内镜像导航](https://lzw.me/x/chatgpt-sites/)
 - [GPT在线体验网站收集](https://chatgpt.quickso.cn/)
 - [freeGPT收集](https://cc.ai55.cc/)
 - [GPT免费在线体验网址收藏](https://weekendproject.space/posts/chat-gpt-free/)
-- https://chat.extkj.cn/#/chat/1002
+- [https://chat.extkj.cn/#/chat/1002](https://chat.extkj.cn/#/chat/1002)
 - [https://ai.gtio.work](https://ai.gtio.work/)
-- https://www.openai.iwzyw.cn/#/chat/1002（加载快）
+- [https://www.openai.iwzyw.cn/#/chat/1002](https://www.openai.iwzyw.cn/#/chat/1002)（加载快）
 - [AI帮个忙](https://ai-toolbox.codefuture.top/)
 - [中文chat-APP](https://wws.lanzoul.com/b0czfctyd)
 
