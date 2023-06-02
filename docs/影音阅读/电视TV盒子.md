@@ -17,7 +17,7 @@
 |安装APP方法|[https://www.znds.com/jc/](https://www.znds.com/jc/)|智能电视论坛提供教程|
 |我的刷机包|[点我跳转](https://pan.baidu.com/s/1CgNHzCXL9OAHXwU0yWBJRw?pwd=9999)|里面都是我的收藏|
 
-# **蚂蚁市场**
+# **蚂蚁市场** - 暂不可用
 
 |下载|[http://www.mayiapk.com/](http://www.mayiapk.com/)|官方网站|
 |-|-|-|
@@ -27,20 +27,30 @@
 
 # 美家市场
 
-| 下载     | https://www.mjapk.com/           | 官网下载 |
-| -------- | -------------------------------- | -------- |
-| 安装教程 | 上面官网有安装教程，也可以蚂蚁的 |          |
-| 分享码   | 112233                           |          |
+| 下载     | https://www.mjapk.com/ | 官网下载 |
+| -------- | ---------------------- | -------- |
+| 安装教程 | 上面官网有安装教程     |          |
+| 分享码   | 112233                 |          |
 
 
 
 # **自用软件分享**
 
-按时间顺序测试使用，**目前推荐小苹果和星火直播！**
+按时间顺序测试使用，**目前推荐阿明BOX，月光BOX和星火直播！**
 
-软件合集 [https://aming.lanzouq.com/b0mn4hsj](https://aming.lanzouq.com/b0mn4hsj)
+**<u>小苹果宣称永久免费，结果突然收费！我直接醉了！</u>**
 
-[小白云网盘TV - 第三方网盘](https://crazynoby.github.io/index.html)
+#### 替代方案
+
+1. [阿明BOX - 我自己没事用Tvbox弄得](https://aming.lanzouc.com/iqxkn0y10ote)
+2. [喵影视](https://www.miaotvs.cn)
+3. [月光盒](https://ygbhbox.lanzouw.com/b03kay7je) 密码:888
+
+#### 软件合集
+
+1. [https://aming.lanzouq.com/b0mn4hsj](https://aming.lanzouq.com/b0mn4hsj)
+
+2. [小白云网盘TV - 第三方网盘](https://crazynoby.github.io/index.html)
 
 # 调试助手
 
