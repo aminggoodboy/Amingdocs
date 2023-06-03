@@ -36,15 +36,16 @@
 
 # **自用软件分享**
 
-按时间顺序测试使用，**目前推荐阿明BOX，月光BOX和星火直播！**
+按时间顺序测试使用，**目前推荐阿明BOX，月光BOX，小苹果修复版和星火直播！**
 
 **<u>小苹果宣称永久免费，结果突然收费！我直接醉了！</u>**
 
 #### 替代方案
 
 1. [阿明BOX - 我自己没事用Tvbox弄得](https://aming.lanzouc.com/iqxkn0y10ote)
-2. [喵影视](https://www.miaotvs.cn)
+2. [喵影视](http://www.miaotvs.cn) - [备用下载](https://aming.lanzouc.com/iTaHd0y5w22b)
 3. [月光盒](https://ygbhbox.lanzouw.com/b03kay7je) 密码:888
+4. [小苹果绿化版](https://aming.lanzouc.com/inZut0y5w23c)
 
 #### 软件合集
 
