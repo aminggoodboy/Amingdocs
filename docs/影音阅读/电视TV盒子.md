@@ -92,3 +92,6 @@
 
 [tvbox相关资源下载，接口和魔改APP！](http://bbs.qiqiv.cn/thread-11973-1-1.html)
 
+[TVbox 助手 - 自己也能做源了](https://aming.lanzouc.com/iyXl80y22b6b)
+
+[TVbox - 可设置成桌面得版本](https://aming.lanzouc.com/icN1u0y9yiqh) - [原版](https://aming.lanzouc.com/i20xq0y9yjqd)
