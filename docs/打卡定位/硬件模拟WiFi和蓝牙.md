@@ -9,7 +9,7 @@
 3. [2023新硬件模拟蓝牙打卡方案 - 仅支持静态蓝牙](https://aming.lanzouf.com/iBF8U0q02pmb)
 
 4. [安卓蓝牙模拟模块新版 - 支持远程双设备模拟动态](https://github.com/dreamncn/bluetooth)
-5. 最新测试蓝牙后面尾数10几位变化无所谓，同样可以用硬件模拟
+5. 最新测试蓝牙后面尾数10几位变化无所谓，同样可以用硬件模拟（PS:在23年6月测试中间动态好像也可以用硬件，有点搞不懂了）
 6. WiFi8266-ESP32中继项目 - [一号](https://github.com/happysoul/esp8266web) - [二号](https://github.com/martin-ger/esp_wifi_repeater/) - [三号](https://github.com/martin-ger/esp32_nat_router)
 
 wifi和蓝牙模拟懒人方案，支持安卓和IOS
