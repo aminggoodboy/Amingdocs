@@ -42,7 +42,7 @@
 
 #### 替代方案
 
-1. [阿明BOX - 我自己没事用Tvbox弄得](https://aming.lanzouc.com/iqxkn0y10ote)
+1. [毒苹果BOX - 阿明自制，长期维护](https://aming.lanzouj.com/i6PsB0ytptbe)
 2. [喵影视](http://www.miaotvs.cn) - [备用下载](https://aming.lanzouc.com/iTaHd0y5w22b)
 3. [月光盒](https://ygbhbox.lanzouw.com/b03kay7je) 密码:888
 4. [小苹果绿化版](https://aming.lanzouc.com/inZut0y5w23c)
@@ -95,3 +95,5 @@
 [TVbox 助手 - 自己也能做源了](https://aming.lanzouc.com/iyXl80y22b6b)
 
 [TVbox - 可设置成桌面得版本](https://aming.lanzouc.com/icN1u0y9yiqh) - [原版](https://aming.lanzouc.com/i20xq0y9yjqd)
+
+TVbox - [自制在线配置](https://www.bilibili.com/read/cv18070837)
