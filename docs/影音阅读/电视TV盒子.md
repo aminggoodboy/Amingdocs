@@ -97,3 +97,5 @@
 [TVbox - 可设置成桌面得版本](https://aming.lanzouc.com/icN1u0y9yiqh) - [原版](https://aming.lanzouc.com/i20xq0y9yjqd)
 
 TVbox - [自制在线配置](https://www.bilibili.com/read/cv18070837)
+
+[月光宝盒 - 唐僧影视 - 直播频道地址](https://gitcode.net/ygbh66/test)
