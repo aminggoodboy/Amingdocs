@@ -38,7 +38,7 @@
 
 ### 黑科技
 
-|              🏃[刷运动步数](http://52.52dun.cn/)              | [📵短信测压](https://absorbed-curler-38b.notion.site/d54b42f1d8b742bbb819fd3d391045bd) |      💭[万能对话账单](https://tool.dvgod.com/index.html)      |
+|              🏃[刷运动步数](https://zs.52o.ink/)              | [📵短信测压](https://absorbed-curler-38b.notion.site/d54b42f1d8b742bbb819fd3d391045bd) |      💭[万能对话账单](https://tool.dvgod.com/index.html)      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |       **🐧[Q绑查询](https://zy.xywlapi.cc/home.html)**        | **📃[文库下载](https://www.haoruan.cc/%E7%9F%A5%E8%AF%86%E5%BA%93/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD)** | [☁️**百度网盘不限速**](https://www.haoruan.cc/%E7%9F%A5%E8%AF%86%E5%BA%93/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8D%E9%99%90%E9%80%9F) |
 | **🌩️[诚通网盘解析](https://www.kelongwo.com/project/ctfile/)** |          **🔻[CSDN解析下载](https://dl.zzyyww.cn/)**          | [🌩️诚通网盘解析2](https://ctfile.glitch.qinlili.bid/button.html) |
