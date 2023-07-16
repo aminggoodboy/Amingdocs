@@ -13,7 +13,7 @@
 
 | 🗄️[在线传输](https://wormhole.app/) - [备用](https://fast.uc.cn/) | 🍛[选菜食谱](https://cook.yunyoujun.cn/) |             🍚[中午吃什么](http://chishenme.xyz/)             |
 | :----------------------------------------------------------: | :-------------------------------------: | :----------------------------------------------------------: |
-|             **📒[临时笔记](https://bijici.com/)**             | **♨️[今日热榜](https://tophub.today/)**  | **🐟[3块美团会员](https://cu3jyccx1k.feishu.cn/docs/doccnFHOL9OkZKHt7fmOYHMXzud)** |
+|             **📒[临时笔记](https://bijici.com/)**             | **♨️[今日热榜](https://tophub.today/)**  | **🐟[3块美团会员](https://flowus.cn/haoruan/share/1e16994c-1ef4-47f9-9c21-21c6c3ba01a0)** |
 |        [📑极简便签TODO](https://www.ricocc.com/todo/)         |                                         |                                                              |
 
 
