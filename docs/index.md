@@ -40,7 +40,7 @@
 
 |              🏃[刷运动步数](https://zs.52o.ink/)              | [📵短信测压](https://www.zybuluo.com/1019337618/note/2539591) |      💭[万能对话账单](https://tool.dvgod.com/index.html)      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|       **🐧[Q绑查询](https://zy.xywlapi.cc/home.html)**        | **📃[文库下载](https://www.haoruan.cc/%E7%9F%A5%E8%AF%86%E5%BA%93/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD)** | [☁️**百度网盘不限速**](https://www.haoruan.cc/%E7%9F%A5%E8%AF%86%E5%BA%93/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8D%E9%99%90%E9%80%9F) |
+|       **🐧[Q绑查询](https://zy.xywlapi.cc/home.html)**        | **📃[文库下载](https://www.haoruan.cc/%E7%9F%A5%E8%AF%86%E5%BA%93/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E8%B1%86%E4%B8%81%E9%81%93%E5%AE%A2%E5%B7%B4%E5%B7%B4%E4%B8%8B%E8%BD%BD/)** | [☁️**百度网盘不限速**](https://www.haoruan.cc/%E7%9F%A5%E8%AF%86%E5%BA%93/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8D%E9%99%90%E9%80%9F) |
 | **🌩️[诚通网盘解析](https://www.kelongwo.com/project/ctfile/)** |          **🔻[CSDN解析下载](https://dl.zzyyww.cn/)**          | [🌩️诚通网盘解析2](https://ctfile.glitch.qinlili.bid/button.html) |
 |   **🔻[CSDN下载1块1次](https://www.zhanghuanglong.com/dl)**   |                                                              |                                                              |
 
