@@ -15,7 +15,6 @@ AI时代随着GPT的普及，已经到来！
 - [https://ai.gtio.work](https://ai.gtio.work/)
 - [https://www.openai.iwzyw.cn/#/chat/1002](https://www.openai.iwzyw.cn/#/chat/1002)（加载快）
 - [AI帮个忙](https://ai-toolbox.codefuture.top/)
-- [中文chat-APP](https://wws.lanzoul.com/b0czfctyd)
 
 # 注册和各种教程
 
