@@ -4,7 +4,7 @@ vcam虚拟相机
 
 简单的操作，非常好用的配套软件 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg4NTgwNjkyOA==&mid=2247484373&idx=1&sn=9249da497ff140fc38f3462dac7b52f3&chksm=cfa201eaf8d588fc123682f207310846d204a34583643cdc1d15a1570569561be173965d48cf#rd)
 
-视频[教程链接点我](https://mdl.ink/RS6Oa4)
+视频[教程链接点我](https://wp.haoruan.cc/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/VCAM%E6%BC%94%E7%A4%BA.mp4)
 
 1. [VCAM全套软件下载](https://aming.lanzouv.com/b0mrnqud)
 2. [光速虚拟机绿化直装版](https://www.123pan.com/s/BXT9-6iMmH)
@@ -20,7 +20,7 @@ vcam虚拟相机
 
 6. 软件里面有说明，选第二个仓库进。
 
-7. vcam群友视频教程 [https://mdl.ink/T75ju0](https://mdl.ink/T75ju0)
+7. vcam群友视频教程 [https://mdl.ink/T75ju0](https://wp.haoruan.cc/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/VCAM%E6%BC%94%E7%A4%BA.mp4)
 
 8. 如果最后你都操作完了，还是提示替换有问题，没有文件，请不要理他，直接点拍照按键
 
