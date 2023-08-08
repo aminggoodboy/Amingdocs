@@ -36,7 +36,7 @@
 
 # **自用软件分享**
 
-按时间顺序测试使用，**目前推荐阿明BOX，月光BOX，小苹果修复版和星火直播！**
+按时间顺序测试使用，**目前推荐毒苹果TV，星火直播！**
 
 **<u>小苹果宣称永久免费，结果突然收费！我直接醉了！</u>**
 
@@ -52,6 +52,17 @@
 1. [https://aming.lanzouq.com/b0mn4hsj](https://aming.lanzouq.com/b0mn4hsj)
 
 2. [小白云网盘TV - 第三方网盘](https://crazynoby.github.io/index.html)
+
+   
+
+# TVbox fengmi壳
+
+目前非常推荐的一个版本，支持横屏竖屏设备，支持自动跳过失效播放源，非常纯净，并且支持老版本安卓！
+
+1. [下载地址点我](https://aming.lanzouj.com/b05fy2s6b)
+2. [超多长期更新大佬接口](https://www.lige.fit/tvbox)
+
+
 
 # 调试助手
 
@@ -86,7 +97,7 @@
 
 
 
-# TVbOX专栏
+# TVbOX其他专栏
 
 [TVbox第三方GitHub仓库，专注收集TVbox相关！](https://github.com/dlgt7/TVbox-interface)
 
