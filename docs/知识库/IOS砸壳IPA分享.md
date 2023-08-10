@@ -23,11 +23,12 @@ ipa砸壳IPA分享
 |-|-|
 |爱思助手电脑签名|[https://m.i4.cn/article/38195.html#A](https://m.i4.cn/article/38195.html#A)|
 |手机签名-轻松签|[下载点我 ](https://esign.yyyue.xyz/)- [教程点我](https://mdl.ink/St9GzN)|
-|牛蛙助手-免电脑自签|[教程点我](https://flowus.cn/haoruan/share/0c7bf29d-e04d-416c-86d4-35b50fb3c61f) [牛蛙去广告](https://flowus.cn/haoruan/share/3eec479a-a200-40bc-bd2b-7885cfeddb77)|
+|牛蛙助手-免电脑自签|[教程点我](https://flowus.cn/haoruan/share/0c7bf29d-e04d-416c-86d4-35b50fb3c61f)|
 |巨魔永久签名|[官方地址](https://github.com/opa334/TrollStore) iOS15-15.4.1|
 |轻松签+永久签名|[官网地址](https://esign.yyyue.xyz/) iOS15-15.4.1|
 |新方案 IPA伪永久签|[教程地址](https://wk.aminggood.cn/%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB/ios%E6%97%A0%E9%99%90%E5%88%B6%E5%AE%89%E8%A3%85IPA) iOS15-16.1.2|
 |win-mac重签名工具|[点我下载](https://www.bilibili.com/read/cv20531617) 支持开发者证书|
+|NB助手|[官方网址](https://nbtool8.com/) 对标牛蛙|
 
 # 其他教程
 
