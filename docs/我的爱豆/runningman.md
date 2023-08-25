@@ -12,7 +12,7 @@
 ![](https://gitee.com/aminggoodboy/image/raw/master/img/202308260041056.webp)
 ![](https://gitee.com/aminggoodboy/image/raw/master/img/202308260041055.jpg)
 
-![](https://gitee.com/aminggoodboy/image/raw/master/img/202308260058420.png)
+
 ![](https://gitee.com/aminggoodboy/image/raw/master/img/202308260057659.jpg)
 ![](https://gitee.com/aminggoodboy/image/raw/master/img/202308260057657.jpg)
 
