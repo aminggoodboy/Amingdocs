@@ -9,6 +9,7 @@ vcam虚拟相机
 1. [VCAM全套软件下载](https://aming.lanzouv.com/b0mrnqud)
 2. [光速虚拟机绿化直装版](https://www.123pan.com/s/BXT9-6iMmH)
 3. [LSP注入教程](https://wk.aminggood.cn/%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB/%E5%AE%89%E5%8D%93%E6%A1%86%E6%9E%B6%E7%A5%9E%E5%99%A8)和其他框架
+4. 2023年8月29更新全新虚拟相机模块，比vcam更好用，文件在上面的VCAM。 - [备份下载](https://wwi.lanzoup.com/b00w9xmcj) 密码8888
 
 ### 注意：目前大部分手机系统都不支持直接访问DCIM文件夹了，如果助手不能用，就去手动把图片或者视频放到Android/data/包名，下面的目录里面。如果不懂就去看vcam里面的gitee仓库的教程！
 

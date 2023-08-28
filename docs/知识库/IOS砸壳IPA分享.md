@@ -38,7 +38,7 @@ ipa砸壳IPA分享
 |[微信PRO强制通知教程](https://img07.mifile.cn/v1/MI_542ED8B1722DC/032f1b4acfbe0861b4e550b0489892d3.jpg)|
 |[ios免签 - 实际是可以把网页书签变成桌面图标APP的方式来实现](https://www.yimenapp.com/iosmianqian.html)|
 |[美区ID分享](https://flowus.cn/haoruan/share/df394422-a882-4414-b01d-3014df0fdb13)|
-|[抖音国际版在线安装 - 免拔卡](https://app.fengcheyun.cc/)|
+|[抖音国际版在线安装 - 免拔卡](https://jiesuo.tk/)|
 |[IOS多开目前可行方案](https://bj.bcebos.com/baidu-rmb-video-cover-1/1aa506dc9d492770e39c543ba28d4850.png)|
 |提取插件教程 [https://mdl.ink/OnMTLU](https://mdl.ink/OnMTLU)|
 |注入越狱插件教程 [https://mdl.ink/QQvBcZ](https://mdl.ink/QQvBcZ)|
