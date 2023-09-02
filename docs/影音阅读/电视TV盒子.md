@@ -61,6 +61,7 @@
 
 1. [下载地址点我](https://aming.lanzouj.com/b05fy2s6b)
 2. [超多长期更新大佬接口](https://www.lige.fit/tvbox)
+3. [使用教程](https://wp.haoruan.cc/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/fengmi-TVBOX.mp4)
 
 
 
