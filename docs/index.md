@@ -54,7 +54,7 @@
 
 ### 懂得都懂
 
-| [🪄魔法网络](https://doc-sqbn-aminggoodboy.vercel.app/%E5%BD%B1%E9%9F%B3%E9%98%85%E8%AF%BB/%E9%AD%94%E6%B3%95%E7%BD%91%E7%BB%9C) | [🦸‍♂️保重身体](https://doc-sqbn-aminggoodboy.vercel.app/%E5%BD%B1%E9%9F%B3%E9%98%85%E8%AF%BB/%E4%BF%9D%E9%87%8D%E8%BA%AB%E4%BD%93) |
+| [🪄魔法网络](https://haoruan.gitbook.io/bei-yong-wen-ku/pages/%E5%BD%B1%E9%9F%B3%E9%98%85%E8%AF%BB/%E9%AD%94%E6%B3%95%E7%BD%91%E7%BB%9C) | [🦸‍♂️保重身体](https://haoruan.gitbook.io/bei-yong-wen-ku/pages/%E5%BD%B1%E9%9F%B3%E9%98%85%E8%AF%BB/%E4%BF%9D%E9%87%8D%E8%BA%AB%E4%BD%93) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 
