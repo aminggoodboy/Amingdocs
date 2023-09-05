@@ -16,6 +16,7 @@
 |麒麟刷机网|[https://www.szjytx.com/](https://www.szjytx.com/)|教程多，有图片分类，收费内容多。|
 |安装APP方法|[https://www.znds.com/jc/](https://www.znds.com/jc/)|智能电视论坛提供教程|
 |我的刷机包|[点我跳转](https://pan.baidu.com/s/1CgNHzCXL9OAHXwU0yWBJRw?pwd=9999)|里面都是我的收藏|
+|黑马刷机包|[点我跳转](https://pan.baidu.com/share/init?surl=OL1AuT0o_ZGKEILfbayEWQ&pwd=6666)|热门机型通刷|
 
 # **蚂蚁市场** - 暂不可用
 
