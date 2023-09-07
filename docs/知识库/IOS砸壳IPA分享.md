@@ -29,6 +29,7 @@ ipa砸壳IPA分享
 |新方案 IPA伪永久签|[教程地址](https://wk.aminggood.cn/%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB/ios%E6%97%A0%E9%99%90%E5%88%B6%E5%AE%89%E8%A3%85IPA) iOS15-16.1.2|
 |win-mac重签名工具|[点我下载](https://www.bilibili.com/read/cv20531617) 支持开发者证书|
 |NB助手|[官方网址](https://nbtool8.com/) 对标牛蛙|
+|Sideloadly签名工具|[官网地址](https://sideloadly.io/) 支持Windows和MAC [使用方法](https://img07.mifile.cn/v1/MI_542ED8B1722DC/6b24255547b3a30c9890d3ea8230796e.png)|
 
 # 其他教程
 
