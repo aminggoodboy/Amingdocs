@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 导航
 
 ### 广告
@@ -83,6 +82,3 @@
 
 ![](https://bj.bcebos.com/baidu-rmb-video-cover-1/697e5f59075733a410ee92b1142fe08f.png)
 =======
-# index
-
->>>>>>> 6b2dfda977976b0550d4a228246bf428b14214af
