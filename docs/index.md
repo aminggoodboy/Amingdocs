@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 导航
 
 ### 广告
@@ -81,3 +82,7 @@
 人帅且气粗，直接打赏 - [点我跳转](https://support.qq.com/product/411304)
 
 ![](https://bj.bcebos.com/baidu-rmb-video-cover-1/697e5f59075733a410ee92b1142fe08f.png)
+=======
+# index
+
+>>>>>>> 6b2dfda977976b0550d4a228246bf428b14214af
