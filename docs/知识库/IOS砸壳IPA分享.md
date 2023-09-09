@@ -45,6 +45,7 @@ ipa砸壳IPA分享
 |注入越狱插件教程 [https://mdl.ink/QQvBcZ](https://mdl.ink/QQvBcZ)|
 |[免费在线砸壳IPA](https://decrypt.day/)|
 |[ybnet配置插件站 - 圈X - 小火箭 - 巨魔 - 浏览器脚本](https://ybnet.ga/)|
+|[旧应用账号，抖音国际版在线安装，美区账户](https://aneeo.com/)|
 
 
 
