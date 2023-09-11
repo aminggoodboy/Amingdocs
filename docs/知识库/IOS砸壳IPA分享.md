@@ -9,7 +9,7 @@ ipa砸壳IPA分享
 |[我自己的收藏](https://wp.haoruan.cc/123%E4%BA%91%E7%9B%98/%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90/IPA%E6%96%87%E4%BB%B6%E5%90%88%E9%9B%86)|[IOS砸壳分享网](https://www.zake.cf/)|[iOSIPA软件网](https://www.iosipa.cn/index.php)|[捷径库](https://jiejingku.net/)|
 |[玩机一派](https://pan.iggxx.com/)|[南拥夏栀](https://nyxz166.cn/Home.php)|[IPA商店](https://ipa.store/)|[少数派捷径库](https://shortcuts.sspai.com/#/main/workflow)|
 |**[DUMPAPP](https://pan.dumpapp.com/)**|[南拥夏栀纯净WX](https://wwi.lanzoui.com/b09m2ol0j)|[苹果软件加油站](http://www.17269.cn/)|[CCTV直播](https://www.icloud.com/shortcuts/e683ca540db14aa680c2a7a616a771e8)|
-|[诚通盘分享](http://download1.eqishare.com/d/37701697-50080335-7114aa)|**[知心网盘](https://zxios.cn/#/pages/index/apple)**|[51IPA - 老](http://www.51ipa.com/)Ipa|[捷径社区](https://sharecuts.cn/)|
+|[诚通盘分享](http://download1.eqishare.com/d/37701697-50080335-7114aa)|[小夕网盘](https://pan.xxin325.info/) 密码0618|[51IPA - 老](http://www.51ipa.com/)Ipa|[捷径社区](https://sharecuts.cn/)|
 |[奇心网盘](https://pan.qxnav.com/)|[知网云盘](https://pan.xyyh.xyz/)|[senumy - IPA](https://senumy.com/apps/ipa-library/)||
 |[蜂窝助手](https://app.fwzs.top/pc/)|[破解游戏下载站](https://nk87c.cn/)|[小8资源](https://iphone8.vip/)||
 |[Zappfree海量资源](https://zappfree.com/)|[ipaspot](https://ipaspot.app/)|[CGY网盘](https://pan.appek.ml/)||
