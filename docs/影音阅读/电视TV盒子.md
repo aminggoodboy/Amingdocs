@@ -64,7 +64,21 @@
 2. [超多长期更新大佬接口](https://www.lige.fit/tvbox)
 3. [使用教程](https://wp.haoruan.cc/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/fengmi-TVBOX.mp4)
 
+# 我的[直播源](https://github.com/YanG-1989/m3u)
 
+1. 使用方法很简单，点开下面的链接，复制地址栏的链接
+
+2. 去到TVBOX壳的任意软件内粘贴到直播那一栏就行了
+
+3. [全国电视直播源](http://shuyuan.miaogongzi.net/shuyuan/1694656546.txt)
+
+4. [斗鱼直播源](http://shuyuan.miaogongzi.net/shuyuan/1694654387.txt)
+
+5. [虎牙直播源](http://shuyuan.miaogongzi.net/shuyuan/1694594580.txt)
+
+6. [玩偶直播源](http://shuyuan.miaogongzi.net/shuyuan/1694649596.txt)
+
+   
 
 # 调试助手
 
