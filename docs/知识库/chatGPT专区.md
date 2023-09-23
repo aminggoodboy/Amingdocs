@@ -5,6 +5,7 @@
 AI时代随着GPT的普及，已经到来！
 
 - [独角兽KEY分享 - 每天免费15个KEY，需要魔法网络](https://freeopenai.xyz/)
+- [ChatGPT API 水龙头 - 每24小时能领1美金GPT4 KEY](https://faucet.openkey.cloud/)
 - [也略](https://www.mydyjs.com/gpt.html)
 - [全平台客户端 - 免费，支持AI出图，等超多功能，下载不了的挂魔法网](https://github.com/akl7777777/free-chatgpt-client-pub) - [蓝奏链接](https://wwnd.lanzoue.com/b04e2d6wh) 密码aojc
 - [chatGPT国内镜像导航](https://lzw.me/x/chatgpt-sites/)
