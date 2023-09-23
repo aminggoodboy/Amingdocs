@@ -10,7 +10,7 @@
 
 4. [安卓蓝牙模拟模块新版 - 支持远程双设备模拟动态](https://github.com/dreamncn/bluetooth)
 
-5. 最新测试蓝牙后面尾数10几位变化无所谓，同样可以用硬件模拟（PS:在23年6月测试中间动态好像也可以用硬件，有点搞不懂了）
+5. 最新测试蓝牙后面尾数10几位变化无所谓，同样可以用硬件模拟（PS:23年9月测试中间变化几位得也可以认为是静态，[详情点我](https://picshack.net/ib/YFhAIegRTp.png)，看对比图）
 
 6. [ESP8266全新模拟WiFi方案2023](https://aming.lanzouj.com/iYTzQ11muf5a)
 
