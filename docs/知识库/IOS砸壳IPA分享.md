@@ -43,7 +43,7 @@ ipa砸壳IPA分享
 |[IOS多开目前可行方案](https://bj.bcebos.com/baidu-rmb-video-cover-1/1aa506dc9d492770e39c543ba28d4850.png)|
 |提取插件教程 [https://mdl.ink/OnMTLU](https://mdl.ink/OnMTLU)|
 |注入越狱插件教程 [https://mdl.ink/QQvBcZ](https://mdl.ink/QQvBcZ)|
-|[免费在线砸壳IPA](https://decrypt.day/)|
+|[免费在线砸壳IPA](https://decrypt.day/) - [付费在线砸壳](https://ipadump.com/)|
 |[ybnet配置插件站 - 圈X - 小火箭 - 巨魔 - 浏览器脚本](https://ybnet.ga/)|
 |[旧应用账号，抖音国际版在线安装，美区账户](https://aneeo.com/)|
 
