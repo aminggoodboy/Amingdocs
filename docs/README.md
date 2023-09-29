@@ -9,6 +9,7 @@
 | **💰[赚钱发财项目](https://flowus.cn/haoruan/share/473a4f2d-1295-48ae-85c6-e6d6ff82357d)** | 没套路，靠自己，很简单         |
 | ⭐[支付宝红包](https://bj.haoruan.cc)                         | 每天都能领个大额红包           |
 | 🍎IOS证书保一年                                               | +微信 Mingmiaoo                |
+| 🤑95折话费电费                                                | +微信 Mingmiaoo                |
 
 
 
