@@ -17,21 +17,16 @@
 |安装APP方法|[https://www.znds.com/jc/](https://www.znds.com/jc/)|智能电视论坛提供教程|
 |我的刷机包|[点我跳转](https://pan.baidu.com/s/1CgNHzCXL9OAHXwU0yWBJRw?pwd=9999)|里面都是我的收藏|
 |黑马刷机包|[点我跳转](https://pan.baidu.com/share/init?surl=OL1AuT0o_ZGKEILfbayEWQ&pwd=6666)|热门机型通刷|
+|盒子免费固件包大全|[点我跳转](https://pan.baidu.com/s/1qSmtBgSEbKs6ZFm-yCr-XQ) 提取码: nnw3|长期更新|
 
-# **蚂蚁市场** - 暂不可用
-
-|下载|[http://www.mayiapk.com/](http://www.mayiapk.com/)|官方网站|
-|-|-|-|
-|论坛|[https://bbs.mayiapk.com/](https://bbs.mayiapk.com/)|官方论坛|
-|安装教程|[http://bbs.mayiapk.com/t-8-1-1.html](http://bbs.mayiapk.com/t-8-1-1.html)|官方教程|
-|推荐分享码|1111，8888 ，6666||
+# 
 
 # 美家市场
 
-| 下载     | https://www.mjapk.com/ | 官网下载 |
-| -------- | ---------------------- | -------- |
-| 安装教程 | 上面官网有安装教程     |          |
-| 分享码   | 112233                 |          |
+| 下载     | [https://www.mjapk.com/](https://www.mjapk.com/) | 官网下载 |
+| -------- | ------------------------------------------------ | -------- |
+| 安装教程 | 上面官网有安装教程                               |          |
+| 分享码   | 112233                                           |          |
 
 
 
