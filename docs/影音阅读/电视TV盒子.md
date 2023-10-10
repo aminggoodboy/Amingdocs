@@ -39,9 +39,7 @@
 #### 替代方案
 
 1. [毒苹果BOX - 阿明自制，长期维护](https://aming.lanzouj.com/i6PsB0ytptbe)
-2. [喵影视](http://www.miaotvs.cn) - [备用下载](https://aming.lanzouc.com/iTaHd0y5w22b)
-3. [月光盒](https://ygbhbox.lanzouw.com/b03kay7je) 密码:888
-4. [小苹果绿化版](https://aming.lanzouc.com/inZut0y5w23c)
+3. [月光盒](https://ygbhbox.lanzouw.com/b03kvv2jc)
 
 #### 软件合集
 
