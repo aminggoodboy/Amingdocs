@@ -63,13 +63,13 @@
 
 2. 去到TVBOX壳的任意软件内粘贴到直播那一栏就行了
 
-3. [全国电视直播源](http://shuyuan.miaogongzi.net/shuyuan/1694656546.txt)
+3. [全国电视直播源](http://ipa.haoruan.cc/duy/dianshi.txt)
 
-4. [斗鱼直播源](http://shuyuan.miaogongzi.net/shuyuan/1694654387.txt)
+4. [斗鱼直播源](http://ipa.haoruan.cc/duy/douyu.txt)
 
-5. [虎牙直播源](http://shuyuan.miaogongzi.net/shuyuan/1694594580.txt)
+5. [虎牙直播源](http://ipa.haoruan.cc/duy/huya.txt)
 
-6. [玩偶直播源](http://shuyuan.miaogongzi.net/shuyuan/1694649596.txt)
+6. [玩偶直播源](http://ipa.haoruan.cc/duy/18+.txt)
 
    
 
