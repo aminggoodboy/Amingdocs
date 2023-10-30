@@ -24,7 +24,7 @@
 # 巨魔，轻松签+虚拟定位
 
 1. 该方案要求系统版本iOS15-15.4.1才可以使用
-2. 下载地图该定位软件 - [点我下载](https://wp.haoruan.cc/123%E4%BA%91%E7%9B%98/%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90/IPA%E6%96%87%E4%BB%B6%E5%90%88%E9%9B%86/%E9%BB%91%E7%A7%91%E6%8A%80/%E5%AE%98%E6%9B%BF%E8%99%9A%E6%8B%9F%E5%AE%9A%E4%BD%8D%E7%A0%B4%E8%A7%A3%20For%20TrollStore_122.ipa)
+2. 下载地图该定位软件 - [点我下载](https://wp.haoruan.cc/123%E5%A4%87%E4%BB%BD/IPA%E6%96%87%E4%BB%B6%E5%90%88%E9%9B%86/%E9%BB%91%E7%A7%91%E6%8A%80/%E5%AE%98%E6%9B%BF%E8%99%9A%E6%8B%9F%E5%AE%9A%E4%BD%8D%E7%A0%B4%E8%A7%A3%20For%20TrollStore_122.ipa)
 3. 操作说明，看软件内的使用说明即可！
 
 # 爱思助手方案
