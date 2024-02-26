@@ -1,10 +1,8 @@
-ipa砸壳IPA分享
-
 # IPA分享
 
 | 介绍                                                         | 介绍                                                | 介绍                                                 | 快捷指令                                                     |
 | ------------------------------------------------------------ | --------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
-| [登拜网盘](https://wp.iosios.vip/)                           | [乐玩资源站](https://pan.lewsky.top/)               | **[清烟资源库](https://www.qlam.asia/)**             |                                                              |
+| [登拜网盘](https://wp.iosios.vip/)                           | [乐玩资源站](https://pan.lewsky.top/)               | **[清烟资源库](https://www.qlam.asia/)**             | [yfamily](https://whatshub.top/) - [小火箭圈X配置](https://github.com/deezertidal) |
 | [IPA下载器](https://www.pgyer.com/SGsl)                      | [熊猫助手](https://panda-helper.org/cn/)            | [兔兔助手](https://www.tutuapp.com/)                 | [圈X墨鱼去广告](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf) - [GitHub](https://github.com/ddgksf2013) |
 | [零点网盘](https://pan.ios98.com/)                           | [苦心IOS导航](https://93665.xin/)                   | [iOSMACfreeIPA](https://iosmacapps.com/)             | [快捷指令库](https://www.rcuts.com/)                         |
 | [我自己的收藏](https://wp.haoruan.cc/夸克网盘/IOS)           | [IPA免费商店](https://ipadump.com/)                 | [iOSIPA软件网](https://www.iosipa.cn/index.php)      | [捷径库](https://jiejingku.net/)                             |
@@ -47,4 +45,4 @@ ipa砸壳IPA分享
 | 注入越狱插件教程 https://mdl.ink/QQvBcZ                      |
 | [免费在线砸壳IPA](https://decrypt.day/) - [付费在线砸壳](https://ipadump.com/) |
 | [YFamily配置插件站 - 圈X - 小火箭 - 巨魔 - 浏览器脚本](https://whatshub.top/) |
-| [旧应用账号，抖音国际版在线安装，美区账户](https://aneeo.com/) |
+| [旧应用账号，抖音国际版在线安装，美区账户](https://aneeo.com/ios) |
